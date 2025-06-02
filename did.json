@@ -2,5 +2,8 @@
     "@context": [
         "https://www.w3.org/ns/did/v1"
     ],
-    "id": "did:webvh:{SCID}:swcurran.github.io:didwebvh-test-1:"
+    "id": "did:web:swcurran.github.io:didwebvh-test-1:",
+    "alsoKnownAs": [
+        "did:webvh:QmYYjkhWtSCw8iKSDAorULAw6742Uj2FUQeAbZ7ah1fkuj:swcurran.github.io:didwebvh-test-1:"
+    ]
 }
